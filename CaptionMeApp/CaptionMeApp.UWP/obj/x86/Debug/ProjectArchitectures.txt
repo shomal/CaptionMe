@@ -1,0 +1,2 @@
+C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp.UWP\CaptionMeApp.UWP.csproj;x86
+C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp\CaptionMeApp.csproj;neutral
