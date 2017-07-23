@@ -11,8 +11,8 @@
 namespace CaptionMeApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Shomal\\Documents\\Visual Studio 2017\\Projects\\CaptionMeApp\\CaptionMeApp\\C" +
-        "aptionMeApp\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Shomal\\Documents\\GitHub\\CaptionMe\\CaptionMeApp\\CaptionMeApp\\MainPage.xam" +
+        "l")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

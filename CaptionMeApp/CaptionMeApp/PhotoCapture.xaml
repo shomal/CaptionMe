@@ -7,6 +7,13 @@
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
             <Label Text="Welcome to CaptionMe Main Page" />
+            <Button x:Name="TakePictureButton"
+                    Clicked="TakePicture_Clicked"
+                    Text="Take Picture"/>
+            <Button x:Name="UploadPictureButton"
+                    Clicked="UploadPicture_Clicked"
+                    Text="Upload From Gallery"/>
+            <Image x:Name="ImageDisplay" HeightRequest="240"/>
         </StackLayout>
     </ContentPage.Content>
 
