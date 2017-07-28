@@ -5,15 +5,19 @@
                  Title="CaptionMe" Icon="ic_photo_camera.png">
 
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Orientation="Vertical" Margin="20">
             <Label Text="Welcome to CaptionMe Main Page" />
             <Button x:Name="TakePictureButton"
                     Clicked="TakePicture_Clicked"
                     Text="Take Picture"/>
-            <Button x:Name="UploadPictureButton"
+            <Button x:Name="TryAgainButton"
+                    Clicked="TakePicture_Clicked"
+                    Text="Try Again"/>
+            <!--<Button x:Name="UploadPictureButton"
                     Clicked="UploadPicture_Clicked"
-                    Text="Upload From Gallery"/>
+                    Text="Upload From Gallery"/>-->
             <Image x:Name="ImageDisplay" HeightRequest="240"/>
+            <Label x:Name="CaptionLabel"/>
         </StackLayout>
     </ContentPage.Content>
 
