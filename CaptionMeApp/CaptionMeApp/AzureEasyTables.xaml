@@ -3,11 +3,31 @@
                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                  x:Class="CaptionMeApp.AzureEasyTables"
                  Title="Easy Tables" Icon="ic_view_list.png">
-
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" />
+    </ContentPage.Padding>
+    
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <!--<StackLayout VerticalOptions="Center" HorizontalOptions="Center">
             <Label Text="Welcome to Azure's Easy Table Page!" />
+        </StackLayout>-->
+        <StackLayout>
+            <Button Text="See Photo Information" Clicked="ClickedAsync" />
+            <ListView x:Name="CaptionList" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding DateDisplay}" Margin="20,0,0,0" VerticalTextAlignment="Center" />
+                                <Label Text="{Binding TimeDisplay}" Margin="0,20,0,0" VerticalTextAlignment="Center" />
+                                <Label Text="{Binding Caption}" HorizontalOptions="FillAndExpand" VerticalTextAlignment="Center" Margin="0,0,20,0" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
+
     </ContentPage.Content>
 
 </ContentPage>

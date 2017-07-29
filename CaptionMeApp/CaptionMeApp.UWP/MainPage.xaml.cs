@@ -20,7 +20,6 @@ namespace CaptionMeApp.UWP
         public MainPage()
         {
             this.InitializeComponent();
-
             LoadApplication(new CaptionMeApp.App());
         }
     }

@@ -13,6 +13,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json.Linq;
 using System.Diagnostics;
+using Android.Util;
 
 namespace CaptionMeApp
 {
@@ -50,7 +51,22 @@ namespace CaptionMeApp
             });
 
             await CreateImageDescription(file);
+            
         }
+
+
+        async Task postLocationAsync(string caption)
+        {
+
+            photocaptioninformation captionModel = new photocaptioninformation()
+            {
+                DateUtc = DateTime.UtcNow,
+                Caption = caption
+            };
+
+            await AzureTableManager.AzureTableManagerInstance.PostCaptionInformation(captionModel);
+        }
+
 
         //private async void UploadPicture_Clicked(object sender, EventArgs e)
         //{
@@ -100,6 +116,7 @@ namespace CaptionMeApp
                     PhotoCaptionModel model = JsonConvert.DeserializeObject<PhotoCaptionModel>(responseString);
                     string imageCaption = model.description.captions.FirstOrDefault().text;
                     CaptionLabel.Text = (imageCaption);
+                    await postLocationAsync(imageCaption);
                 }
 
                 file.Dispose();

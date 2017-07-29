@@ -10,9 +10,9 @@
             <Button x:Name="TakePictureButton"
                     Clicked="TakePicture_Clicked"
                     Text="Take Picture"/>
-            <Button x:Name="TryAgainButton"
+            <!--<Button x:Name="TryAgainButton"
                     Clicked="TakePicture_Clicked"
-                    Text="Try Again"/>
+                    Text="Try Again"/>-->
             <!--<Button x:Name="UploadPictureButton"
                     Clicked="UploadPicture_Clicked"
                     Text="Upload From Gallery"/>-->
