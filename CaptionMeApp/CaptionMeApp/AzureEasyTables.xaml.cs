@@ -13,8 +13,7 @@ namespace CaptionMeApp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AzureEasyTables : ContentPage
-    {
-
+    { 
         public AzureEasyTables()
         {
             InitializeComponent();
@@ -23,9 +22,7 @@ namespace CaptionMeApp
         async void ClickedAsync(object sender, System.EventArgs e)
         {
             List<photocaptioninformation> captionInformation = await AzureTableManager.AzureTableManagerInstance.GetCaptionInformation();
-
             CaptionList.ItemsSource = captionInformation;
         }
-
     }
 }

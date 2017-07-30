@@ -41,7 +41,7 @@ namespace CaptionMeApp
 
         public async Task<List<photocaptioninformation>> GetCaptionInformation()
         {
-            return await this.photoCaptionTable.OrderBy(c => c.DateUtc).ToListAsync();
+            return await this.photoCaptionTable.OrderByDescending(c => c.DateUtc).ToListAsync();
         }
 
         public async Task PostCaptionInformation(photocaptioninformation captionModel)

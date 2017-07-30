@@ -112,8 +112,6 @@ class MonoPackageManager_Resources {
 		"PInvoke.NCrypt.dll",
 		"PInvoke.Windows.Core.dll",
 		"Plugin.CurrentActivity.dll",
-		"Plugin.Geolocator.Abstractions.dll",
-		"Plugin.Geolocator.dll",
 		"Plugin.Media.Abstractions.dll",
 		"Plugin.Media.dll",
 		"Plugin.Permissions.Abstractions.dll",

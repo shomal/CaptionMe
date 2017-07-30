@@ -10,8 +10,6 @@
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
   <uses-feature android:name="android.hardware.camera" android:required="false" />
   <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
-  <uses-feature android:name="android.hardware.location.gps" />
-  <uses-feature android:name="android.hardware.location.network" />
   <application android:label="CaptionMe" android:name="md566e4ee73ed579532ddf4e2bfbe9e2b35.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="CaptionMeApp" android:theme="@style/MainTheme" android:name="md566e4ee73ed579532ddf4e2bfbe9e2b35.MainActivity">
       <intent-filter>

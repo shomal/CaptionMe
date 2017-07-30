@@ -22,5 +22,8 @@ namespace CaptionMeApp
 
         [JsonProperty(PropertyName = "Caption")]
         public string Caption { get; set; }
+
+        [JsonProperty(PropertyName = "Confidence")]
+        public float Confidence { get; set; }
     }
 }

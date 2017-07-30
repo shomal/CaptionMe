@@ -12,8 +12,6 @@ C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\PInvoke.NCrypt.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\PInvoke.Windows.Core.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.CurrentActivity.dll
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.Geolocator.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.Media.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll

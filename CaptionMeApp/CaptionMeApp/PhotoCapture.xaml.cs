@@ -55,13 +55,14 @@ namespace CaptionMeApp
         }
 
 
-        async Task postLocationAsync(string caption)
+        async Task postLocationAsync(string caption, float confidence)
         {
 
             photocaptioninformation captionModel = new photocaptioninformation()
             {
                 DateUtc = DateTime.UtcNow,
-                Caption = caption
+                Caption = caption,
+                Confidence = confidence
             };
 
             await AzureTableManager.AzureTableManagerInstance.PostCaptionInformation(captionModel);
@@ -93,21 +94,16 @@ namespace CaptionMeApp
         async Task CreateImageDescription(MediaFile file)
         {
             var client = new HttpClient();
-
             client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "51d20aa4b6164fabbf162f9d2de32c91");
-
             string url = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Description";
 
             HttpResponseMessage response;
 
             byte[] byteData = GetImageAsByteArray(file);
-
             using (var content = new ByteArrayContent(byteData))
             {
-
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/octet-stream");
                 response = await client.PostAsync(url, content);
-
 
                 if (response.IsSuccessStatusCode)
                 {
@@ -115,13 +111,13 @@ namespace CaptionMeApp
 
                     PhotoCaptionModel model = JsonConvert.DeserializeObject<PhotoCaptionModel>(responseString);
                     string imageCaption = model.description.captions.FirstOrDefault().text;
+                    float captionConfidence = model.description.captions.FirstOrDefault().confidence;
+                    imageCaption = char.ToUpper(imageCaption[0]) + imageCaption.Substring(1);
                     CaptionLabel.Text = (imageCaption);
-                    await postLocationAsync(imageCaption);
+                    await postLocationAsync(imageCaption, captionConfidence);
                 }
-
                 file.Dispose();
             }
-
         }
     }
 }
