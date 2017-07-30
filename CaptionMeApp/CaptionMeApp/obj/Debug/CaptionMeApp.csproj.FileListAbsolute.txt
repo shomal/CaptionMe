@@ -17,6 +17,14 @@ C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.pdb
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.dll.mdb
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp\bin\Debug\CaptionMeApp.dll.mdb
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.csproj.App.config
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.csprojResolveAssemblyReference.cache
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.MainPage.xaml.g.cs
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.App.xaml.g.cs
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.PhotoCapture.xaml.g.cs
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.AzureEasyTables.xaml.g.cs
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.dll
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.pdb
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\CaptionMeApp.dll.config
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\CaptionMeApp.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\CaptionMeApp.pdb
@@ -79,13 +87,6 @@ C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\k
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\ru\System.Spatial.resources.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.csproj.App.config
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.MainPage.xaml.g.cs
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.App.xaml.g.cs
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.PhotoCapture.xaml.g.cs
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.AzureEasyTables.xaml.g.cs
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.dll
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.pdb
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.dll.mdb
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\bin\Debug\CaptionMeApp.dll.mdb
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp\obj\Debug\CaptionMeApp.dll.mdb

@@ -73,6 +73,24 @@ C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Shomal\Documents\Visual Studio 2017\Projects\CaptionMeApp\CaptionMeApp\CaptionMeApp.Android\obj\Debug\CaptionMeApp.Android.dll.mdb
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\CaptionMeApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\CaptionMeApp.Android.dll.config
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\CaptionMeApp.Android.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\CaptionMeApp.Android.pdb
@@ -184,24 +202,6 @@ C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\ru\System.Spatial.resources.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\CaptionMeApp.Android.csprojResolveAssemblyReference.cache
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
-C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\CaptionMeApp.Android.dll
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\CaptionMeApp.Android.pdb
 C:\Users\Shomal\Documents\GitHub\CaptionMe\CaptionMeApp\CaptionMeApp.Android\obj\Debug\android\bin\com.yourcompany.CaptionMeApp.apk
